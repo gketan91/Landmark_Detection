@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349160279174",
+    "firebase_url": "https://landmark-detection-524ab.firebaseio.com",
+    "project_id": "landmark-detection-524ab",
+    "storage_bucket": "landmark-detection-524ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349160279174:android:70768d948daef6edf91507",
+        "android_client_info": {
+          "package_name": "com.ketan_studio.example.landmarkdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349160279174-ltdbt4lg6q3qocrs3fk0fq2luee8hiae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ketan_studio.example.landmarkdetection",
+            "certificate_hash": "81625645899b80e010e9a07f1f452b0b496bdd2c"
+          }
+        },
+        {
+          "client_id": "349160279174-8n586qb09kmjbl7ac4evape4c3h6pa94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_RTl0UUpiWqtTMcQi5uV-4lsDp3YnsY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349160279174-8n586qb09kmjbl7ac4evape4c3h6pa94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
